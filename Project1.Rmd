@@ -1,6 +1,6 @@
 ---
 title: "Project 1"
-author: "GROUP MEMBERS"
+author: "Luke, Omar, Jacob" -- for initial commit, delete after
 output: html_document
 ---
 
